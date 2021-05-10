@@ -9,6 +9,7 @@ public class LogManager {
     	  
           }else {
 		      System.out.println( "Email gönderildi");
+      
           }
      } 
 }

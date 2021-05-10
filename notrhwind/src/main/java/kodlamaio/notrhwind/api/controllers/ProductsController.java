@@ -10,7 +10,7 @@ import kodlamaio.notrhwind.business.abstracts.ProductService;
 import kodlamaio.notrhwind.entities.concretes.Product;
 
 @RestController
-@RequestMapping("/api/products")
+@RequestMapping( "/api/products")
 public class ProductsController {
 	
 	

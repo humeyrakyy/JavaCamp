@@ -9,6 +9,7 @@ import kodlamaio.notrhwind.business.abstracts.ProductService;
 import kodlamaio.notrhwind.dataAccess.abstracts.ProductDao;
 import kodlamaio.notrhwind.entities.concretes.Product;
 
+
 @Service
 public class ProductManager  implements ProductService{
 

@@ -1,0 +1,3 @@
+module oopIntro {
+	exports oopIntro;
+}

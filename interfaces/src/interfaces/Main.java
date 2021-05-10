@@ -9,5 +9,6 @@ public class Main {
 		Customer zafer = new Customer(1, "Zafer", "Çalışkan");
 		customerManager.add(zafer);
 
+		
 	}
 }

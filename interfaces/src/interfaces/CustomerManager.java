@@ -3,6 +3,7 @@ package interfaces;
 public class CustomerManager {
 	private Logger[] loggers;
 	
+	
 	public CustomerManager(Logger[] loggers) {
 		this.loggers = loggers;
 	}

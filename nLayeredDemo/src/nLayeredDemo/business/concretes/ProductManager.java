@@ -5,8 +5,6 @@ import nLayeredDemo.core.LoggerService;
 import nLayeredDemo.dataAccess.abstracts.ProductDao;
 import nLayeredDemo.entities.concretes.Product;
 
-
-
 public class ProductManager implements ProductService {
 
 	private ProductDao productDao;

@@ -9,6 +9,7 @@ public class JLoggerManagerAdapter  implements LoggerService{
 	public void logToSystem(String message) {
 		JLoggerManager manager = new JLoggerManager();
 		manager.log(message);
+
 	}
 
 }

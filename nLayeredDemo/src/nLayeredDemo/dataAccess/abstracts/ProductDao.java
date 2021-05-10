@@ -11,4 +11,5 @@ import nLayeredDemo.entities.concretes.Product;
      Product get(int id);
      List<Product> getAll();
      
+     
 }

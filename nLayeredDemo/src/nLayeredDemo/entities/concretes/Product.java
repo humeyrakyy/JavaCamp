@@ -2,13 +2,13 @@ package nLayeredDemo.entities.concretes;
 
 import nLayeredDemo.entities.abstracts.Entity;
 
-
 public class Product implements Entity{
     private int id;
     private int categoryId;
     private String name;
     private double unitPrice;
     private int UnitsInStock;
+    
     
     
     public Product() {

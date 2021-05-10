@@ -19,6 +19,7 @@ public class HibernateProductDao implements ProductDao{
 	public void update(Product product) {
 		// TODO Auto-generated method stub
 		
+		
 	}
 
 	@Override
